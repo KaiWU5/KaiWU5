@@ -1,16 +1,15 @@
-## Hi there 👋
+                                         
+  ### 👋 Hi, I'm Kai Wu!                                                                                                                                                       
+                                                            
+  🔬 Researcher at [ByteDance](https://www.bytedance.com/), leading initiatives in **medical multimodal large language models**. My work focuses on developing personal agentic
+   medical AI systems capable of understanding and reasoning over complex medical data across multiple modalities. 🚀                                                          
 
-<!--
-**KaiWU5/KaiWU5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🎓 M.S. from the [University of Wisconsin–Madison](https://www.wisc.edu/).
 
-Here are some ideas to get you started:
+  ✨ **Research Interests:** Medical AI 🏥 | Multimodal LLMs 🧠 | Computer Vision 👁️  | AI Agents 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🎉🎊 **MedXIAOHE is hiring!** We are seeking talented individuals with expertise in LLMs, MLLMs, Medical AI for scientific applications, and AI Agents! 🎊🎉
+
+  [![Homepage](https://img.shields.io/badge/🌐_Homepage-kaiwu5.github.io-blue?style=flat-square)](https://kaiwu5.github.io/profile/)
+  [![Google Scholar](https://img.shields.io/badge/📚_Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=ElfT3eoAAAAJ)
+  [![Email](https://img.shields.io/badge/📧_Email-wukaiwork%40outlook.com-red?style=flat-square)](mailto:wukaiwork@outlook.com)
