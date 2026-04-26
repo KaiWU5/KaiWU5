@@ -10,6 +10,6 @@
 
   🎉🎊 **MedXIAOHE is hiring!** We are seeking talented individuals with expertise in LLMs, MLLMs, Medical AI for scientific applications, and AI Agents! 🎊🎉
 
-  [![Homepage](https://img.shields.io/badge/🌐_Homepage-kaiwu5.github.io-blue?style=flat-square)](https://kaiwu5.github.io/profile/)
+  [![Homepage](https://img.shields.io/badge/🌐_Homepage-kaiwu5.github.io-blue?style=flat-square)](https://kaiwu5.github.io/)
   [![Google Scholar](https://img.shields.io/badge/📚_Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=ElfT3eoAAAAJ)
   [![Email](https://img.shields.io/badge/📧_Email-wukaiwork%40outlook.com-red?style=flat-square)](mailto:wukaiwork@outlook.com)
